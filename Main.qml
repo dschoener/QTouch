@@ -6,7 +6,7 @@ Window {
     objectName: "mainWindow"
     visible: true
     visibility: "FullScreen"
-    title: qsTr("Sandbox")
+    title: qsTr("QTouch")
 
     MainForm {
         id: mainForm
