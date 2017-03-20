@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>images/calendar.svg</file>
+        <file>images/shut_down.svg</file>
+        <file>images/info.svg</file>
+        <file>images/sett_big.svg</file>
+        <file>images/home.svg</file>
+        <file>images/search.svg</file>
+        <file>MenuItem.qml</file>
+        <file>MainMenu.qml</file>
+        <file>Settings.qml</file>
+        <file>SliderControl.qml</file>
+        <file>MainForm.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>StyledText.qml</file>
+    </qresource>
+</RCC>
